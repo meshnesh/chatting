@@ -1,0 +1,22 @@
+{
+  "name": "chatting",
+  "version": "1.0.0",
+  "description": "my first socket.io app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/meshnesh/chatting.git"
+  },
+  "author": "Antony (tonny.nesh@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meshnesh/chatting/issues"
+  },
+  "homepage": "https://github.com/meshnesh/chatting",
+  "dependencies": {
+    "express": "^4.10.2"
+  }
+}
